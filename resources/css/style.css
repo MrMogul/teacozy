@@ -12,6 +12,7 @@ header{
 	border-bottom: 1px solid seashell;
 	position: fixed;
 	width: 100%;
+	z-index: 1;
 
 
 
